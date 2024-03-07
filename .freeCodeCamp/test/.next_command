@@ -28,3 +28,4 @@ git push -u origin main
 echo hello bash
 touch questionnaire.sh
 git push -u origin main
+sh questionnaire.sh
