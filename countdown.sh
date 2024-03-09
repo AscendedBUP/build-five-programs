@@ -14,10 +14,8 @@ else
   echo Include a positive integer as the first argument.
 fi
 '
-
 I=$1
-
-while [[ $I -ge 0 ]]
+while [[  $I  -ge 0 ]];
 do
   echo $I
 done

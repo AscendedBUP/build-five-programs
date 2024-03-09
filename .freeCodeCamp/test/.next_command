@@ -204,3 +204,5 @@ sleep 3
 ./countdown.sh 1
 man while
 help while
+ls --color=auto
+ls --color=auto -l
