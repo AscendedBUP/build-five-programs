@@ -174,3 +174,4 @@ help ls
 help test
 [[ -a countdown.sh ]]
 [[ -a bad_file.txt ]]
+[[ -x countdown.sh ]]
