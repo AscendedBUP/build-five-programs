@@ -136,3 +136,4 @@ __vsc_prompt_cmd_original
 touch countdown.sh
 ls --color=auto -l
 chmod +x countdown.sh
+./countdown.sh
