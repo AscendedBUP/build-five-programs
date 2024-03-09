@@ -194,3 +194,5 @@ help
 ./countdown.sh 10
 ./countdown.sh 0
 help
+help wait
+ls --color=auto /
