@@ -401,3 +401,4 @@ type echo
 ]type read
 type read
 type if
+type then
