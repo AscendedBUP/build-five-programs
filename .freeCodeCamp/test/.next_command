@@ -359,3 +359,9 @@ help function
 ./fortune.sh
 help
 help until
+help [[
+help
+help expression
+help [
+help test
+help [[
