@@ -9,7 +9,10 @@ GET_FORTUNE() {
   if [[ ! $1 ]]
   then
     echo "Ask a yes or no question:"
-    fi
+  else
+    echo "Try again. Make sure it ends with a question mark:"
+  fi
+
   read QUESTION
 }
 
