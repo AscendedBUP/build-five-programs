@@ -396,3 +396,4 @@ git push -u origin main
 clear
 ./five.sh
 help
+help type
