@@ -341,3 +341,5 @@ git add fortune.sh
 git commit
 git push -u origin main
 ./fortune.sh
+ARR=("a", "b", "c")
+ARR=("a" "b" "c")
