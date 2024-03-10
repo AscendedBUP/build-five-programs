@@ -393,3 +393,4 @@ git add five.sh
 git commit
 git push -u origin main
 ./five.sh
+clear
