@@ -290,3 +290,4 @@ echo $J
 declare -p
 declare -[ J
 declare -p J
+declare -p RANDOM
