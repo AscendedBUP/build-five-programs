@@ -277,3 +277,4 @@ echo $I
 (( I++ ))
 echo $i
 echo $I
+help let
