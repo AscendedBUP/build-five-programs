@@ -400,3 +400,4 @@ help type
 type echo
 ]type read
 type read
+type if
