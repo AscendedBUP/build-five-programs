@@ -337,3 +337,7 @@ help if
 ./bingo.sh
 touch fortune.sh
 chmod +x fortune.sh
+git add fortune.sh
+git commit
+git push -u origin main
+./fortune.sh
