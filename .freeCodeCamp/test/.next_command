@@ -395,3 +395,4 @@ git push -u origin main
 ./five.sh
 clear
 ./five.sh
+help
