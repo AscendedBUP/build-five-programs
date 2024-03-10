@@ -343,3 +343,4 @@ git push -u origin main
 ./fortune.sh
 ARR=("a", "b", "c")
 ARR=("a" "b" "c")
+echo ${ARR[1]}
