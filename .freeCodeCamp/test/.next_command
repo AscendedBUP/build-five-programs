@@ -365,3 +365,4 @@ help expression
 help [
 help test
 help [[
+./fortune.sh
