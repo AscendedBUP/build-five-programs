@@ -369,3 +369,4 @@ help [[
 hep [[
 help [[
 [[ "hello" == "hello" ]]
+[[ "hello" == "world" ]]
