@@ -368,3 +368,4 @@ help [[
 ./fortune.sh
 hep [[
 help [[
+[[ "hello" == "hello" ]]
